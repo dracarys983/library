@@ -1,4 +1,6 @@
 ---
+title: "Kalpit Thakkar's Library"
+layout: default
 ---
 
 ### Books I have to read
