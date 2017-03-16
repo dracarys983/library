@@ -21,7 +21,6 @@ layout: default
     * [Hell Island](https://books.google.co.uk/books?id=eQajBqGgHkQC&printsec=frontcover#v=onepage&q&f=false)
     * [Scarecrow and the Army of Thieves](https://books.google.co.in/books?id=6uY-C8KqfmAC&printsec=frontcover#v=onepage&q&f=false)
 
-
 * Jack West Novels - Matthew Reilly
     * [Seven Ancient Wonders](https://books.google.as/books?id=L6r2u5zFwqoC&printsec=frontcover&hl=en#v=onepage&q&f=false)
     * [The Six Sacred Stones](https://books.google.co.in/books?id=anELBMR4bG4C&printsec=frontcover#v=onepage&q&f=false)
