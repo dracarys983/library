@@ -3,6 +3,8 @@ title: "Kalpit Thakkar's Library"
 layout: default
 ---
 
+### [Research Library]({{site.url}}/{{site.baseurl}}/research.html)
+
 ### Books I have to read
 
 * [1984 - George Orwell]({{site.url}}/{{site.baseurl}}/to-read/1984.pdf)
