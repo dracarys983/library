@@ -1,5 +1,6 @@
 ---
 title: "Kalpit Thakkar's Library"
+description: "List of books I have read or have to read"
 layout: default
 ---
 

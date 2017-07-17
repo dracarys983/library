@@ -1,7 +1,7 @@
 markdown: kramdown
 
 title: My Library
-description: List of books I have read or have to read
+description: List of books / research papers I have read or have to read
 
 url: "https://dracarys983.github.io"
 baseurl: "library"
