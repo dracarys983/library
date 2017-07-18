@@ -4,7 +4,7 @@ description: "List of books I have read or have to read"
 layout: default
 ---
 
-### [Research Library]({{site.url}}/{{site.baseurl}}/research.html)
+### \[[Research Library]({{site.url}}/{{site.baseurl}}/research.html)\]
 
 ### Books I have to read
 
