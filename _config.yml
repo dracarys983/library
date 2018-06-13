@@ -6,4 +6,4 @@ description: List of books / research papers I have read or have to read
 url: "https://dracarys983.github.io"
 baseurl: "library"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
