@@ -4,8 +4,6 @@ description: "List of books I have read or have to read"
 layout: default
 ---
 
-### [Research Library]({{site.url}}/{{site.baseurl}}/research.html)
-
 ### Books I have to read
 
 * [1984 - George Orwell]({{site.url}}/{{site.baseurl}}/to-read/1984.pdf)
